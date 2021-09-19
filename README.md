@@ -83,9 +83,9 @@ MI CUENTA
  
   **1. Clonar el repositorio**
   
-  >git clone 
+  >git clone https://github.com/Jeremy210321/proyecto-semestre-trashinformation.git
   
-  >cd ProyectoCrasftHome 
+  >cd TrashInformarion 
   
   **2. Instalar dependencias**
   
@@ -102,13 +102,10 @@ MI CUENTA
  En el siguiente enlace se halla la documentacion tales como:
  
  
- Manual Técnico
- 
- 
- 
- Informe Técnico
- 
- 
- >Enlace:
+ >***Manual Técnico:*** https://epnecuador-my.sharepoint.com/:w:/g/personal/jeremy_leon_epn_edu_ec/Edf-mXLX37pEp9wuH9ZNDDABZgMsRh1VfeMGpXQGfYV4wQ?e=mhagNt
+  
+ >***Informe Técnico:*** https://epnecuador-my.sharepoint.com/:w:/g/personal/jeremy_leon_epn_edu_ec/ESyyj-iHYjBCmahBmknvIsYBuV_GHovjsWeWLrukzlNJGQ?e=udAzsr
+  
+ >***Enlace:*** https://github.com/Jeremy210321/proyecto-semestre-trashinformation.git
     
 
