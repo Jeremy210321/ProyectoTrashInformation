@@ -39,34 +39,34 @@
  INICIO DE SESIÓN
  ![image](https://user-images.githubusercontent.com/66692550/133868542-6c7ed7c8-bb47-43ed-a932-3b967c7d61a6.png)
 
-REGISTRO DE USUARIO
+**REGISTRO DE USUARIO**
 
 ![image](https://user-images.githubusercontent.com/66692550/133868569-06ae56d5-eebc-4719-a150-1578d1a4674b.png)
 
-PESTAÑA DE INICIO
+**PESTAÑA DE INICIO**
 
 ![image](https://user-images.githubusercontent.com/66692550/133868617-23c0925e-bb6a-4ff2-8a0e-c8218a9e1f0c.png)
 
-MANEJA TUS DESECHOS 
+**MANEJA TUS DESECHOS 
 
 ![image](https://user-images.githubusercontent.com/66692550/133868631-fe49d366-b786-41d4-9e25-fe0e09c22248.png)
 
-CONTÁCTENOS
+**CONTÁCTENOS
 
 ![image](https://user-images.githubusercontent.com/66692550/133868654-7a5822ff-52f5-45aa-a994-906181914647.png)
 
-VIDEOS
+**VIDEOS
 
 ![image](https://user-images.githubusercontent.com/66692550/133868666-7fe16b47-1833-44a3-9fab-68b685947ba4.png)
 
-NOTICIAS
+**NOTICIAS
 
 ![image](https://user-images.githubusercontent.com/66692550/133868688-a9cc2898-1c82-4e49-9164-a5580594f380.png)
-  REPORTE DE UNA NOTICIA
+**REPORTE DE UNA NOTICIA
   
 ![image](https://user-images.githubusercontent.com/66692550/133868716-f79b5074-56ab-41e0-88eb-bc1fcbedc2a6.png)
 
-MI CUENTA
+**MI CUENTA
 
 ![image](https://user-images.githubusercontent.com/66692550/133868720-8f8f2493-cade-435f-8624-16295452ab50.png)
 
