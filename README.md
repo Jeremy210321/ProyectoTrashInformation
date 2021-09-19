@@ -71,22 +71,19 @@ MI CUENTA
 ![image](https://user-images.githubusercontent.com/66692550/133868720-8f8f2493-cade-435f-8624-16295452ab50.png)
 
   # 4. Versiones de desarrollo
-  **1. Visual Estudio Code**
-  
-  >Version 1.60.0
    
-  **2. React**
+  **1. React**
   
-   >Version 0.1.0
+   >Version ^17.0.2
    
-  **3. Nodejs**
-   >Version 16.6.0
+  **2. Nodejs**
+   >Version 14.17.3
    
  # 5. Instalación
  
   **1. Clonar el repositorio**
   
-  >git clone https://github.com/Chriss78Vera/ProyectoCrasftHome.git
+  >git clone 
   
   >cd ProyectoCrasftHome 
   
@@ -112,6 +109,6 @@ MI CUENTA
  Informe Técnico
  
  
- >Enlace: https://github.com/Chriss78Vera/ProyectoCrasftHome/tree/main/Documentacion 
+ >Enlace:
     
 
