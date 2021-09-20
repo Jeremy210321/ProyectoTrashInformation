@@ -102,10 +102,10 @@
  En el siguiente enlace se halla la documentacion tales como:
  
  
- >***Manual Técnico:*** https://epnecuador-my.sharepoint.com/:w:/g/personal/jeremy_leon_epn_edu_ec/Edf-mXLX37pEp9wuH9ZNDDABZgMsRh1VfeMGpXQGfYV4wQ?e=mhagNt
+ >***Manual Técnico:*** https://epnecuador-my.sharepoint.com/:b:/g/personal/jeremy_leon_epn_edu_ec/EW45KTuPFpFGisAEHuGOPqsB18X8r1YmTPx77fvyO_RzCQ?e=8qTzsR
   
- >***Informe Técnico:*** https://epnecuador-my.sharepoint.com/:w:/g/personal/jeremy_leon_epn_edu_ec/ESyyj-iHYjBCmahBmknvIsYBuV_GHovjsWeWLrukzlNJGQ?e=udAzsr
+ >***Informe Técnico:*** https://epnecuador-my.sharepoint.com/:b:/g/personal/jeremy_leon_epn_edu_ec/EUOo9VjCoalImL5YYA0bRYwBod3AVyQ9mIbza8oHLa3vTw?e=MaFsS2
   
- >***Enlace:*** https://github.com/Jeremy210321/proyecto-semestre-trashinformation.git
+ >***Enlace al repositorio:*** https://github.com/Jeremy210321/proyecto-semestre-trashinformation.git
     
 
